@@ -27,7 +27,7 @@ namespace InfoJuros.Api
                 {
                     Version = "v1",
                     Title = "API de infos de taxas de juros",
-                    Description = "Este API é requisitada apenas pela API CalcJuros obter a taxa de juros mensal. Ambas APIs demonstram a utilização de recursos como CI/CD, Docker, Teste Unitário (TDD), Documentação de APIs (Swagger) e requisição em API externa. "+
+                    Description = "Esta API é requisitada apenas pela API CalcJuros obter a taxa de juros mensal. Ambas APIs demonstram a utilização de recursos como CI/CD, Docker, Teste Unitário (TDD), Documentação de APIs (Swagger) e requisição em API externa. "+
                         "Toda estas implementações utilizando o Framework dotNet Core versão 3.1, linguagem de programação C#.",
                     Contact = new OpenApiContact
                     {
