@@ -1,0 +1,10 @@
+matrix:
+  include:
+	- language: csharp
+	  dotnet: 3.1.301
+	  mono: none
+	  os:
+	    - linux
+	  branches:
+        only:
+          - master
